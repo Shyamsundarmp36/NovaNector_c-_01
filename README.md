@@ -58,3 +58,4 @@ cos: Cosine (expects input in radians)
 tan: Tangent (expects input in radians)
 sqrt: Square root
 ^: Power (exponentiation)
+contact(shyamsundarmp36@gmail.com)
